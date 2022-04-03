@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { PokerCard } from "./pocker-card";
+import { PokerCard } from "./poker-card";
 
 export enum CombinationType {
     STRAIGHT_FLUSH = "STRAIGHT_FLUSH",

@@ -1,4 +1,4 @@
-import { PokerCard } from './pocker-card';
+import { PokerCard } from './poker-card';
 import PokerCombination, { CombinationType } from './poker-combination';
 
 function findCombinations (cards: Array<PokerCard>) {

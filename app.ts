@@ -1,7 +1,7 @@
 import prompts from 'prompts';
 import {
   PokerCard, Rank, Color,
-} from './models/pocker-card';
+} from './models/poker-card';
 import PokerCombination, { CombinationType } from './models/poker-combination';
 import PokerHand, { PlayOutcome } from './models/poker-hand';
 
